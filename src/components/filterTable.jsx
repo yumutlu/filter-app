@@ -10,7 +10,7 @@ const SearchTable = () => {
         <div className='d-flex justify-content-around'>
         <input
         type="text"
-        placeholder="search Name"
+        placeholder="Search Name.."
         className="form-control"
         style={{ marginTop: 50, marginBottom: 20, width: "30%" }}
         onChange = {(e)=> {
